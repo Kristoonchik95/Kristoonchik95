@@ -78,16 +78,14 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/kristina_trofimova-prilozhenie_medve.diva.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Kristoonchik95/Kristoonchik95/refs/heads/main/kristina_trofimova-prilozhenie_medve.diva.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter2.png)
+[<img src="/0b0cfc52127.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Kristoonchik95/Kristoonchik95/refs/heads/main/0b0cfc52127.png)
+[<img src="/0cd07f82395.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Kristoonchik95/Kristoonchik95/refs/heads/main/0cd07f82395.png)
+[<img src="/recomendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/Kristoonchik95/Kristoonchik95/refs/heads/main/recomendation.png)
 
 <br>
 <br>
